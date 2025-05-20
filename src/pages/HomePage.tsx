@@ -279,24 +279,24 @@ const HomePage: React.FC = () => {
             <TestimonialCard
               quote="Melexis transformed our business with a stunning website that's not only beautiful but also highly functional. Their attention to detail is unmatched."
               name="Sarah Johnson"
-              title="CEO"
-              companyName="Novus Dynamics"
+              // title="CEO"
+              // companyName="Novus Dynamics"
               imageUrl="https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             />
             
             <TestimonialCard
               quote="The mobile app developed by Melexis exceeded our expectations. The team was professional, responsive, and delivered exactly what we needed."
               name="Michael Chen"
-              title="Product Manager"
-              companyName="TechSphere"
+              // title="Product Manager"
+              // companyName="TechSphere"
               imageUrl="https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             />
             
             <TestimonialCard
               quote="Working with Melexis was a game-changer for our startup. Their expertise and guidance helped us create a product that our users love."
               name="Emily Rodriguez"
-              title="Founder"
-              companyName="Elevate Solutions"
+              // title="Founder"
+              // companyName="Elevate Solutions"
               imageUrl="https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             />
           </div>

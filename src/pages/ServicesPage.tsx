@@ -5,7 +5,7 @@ import { Code2, Smartphone, Database, Server, Lightbulb, ShoppingCart, Image, Pe
 // Components
 import SectionTitle from '../components/ui/SectionTitle';
 import Button from '../components/ui/Button';
-
+import mobileApp from "../../../public/app-devlopment.jpg"
 const ServicesPage: React.FC = () => {
   return (
     <>
@@ -86,12 +86,16 @@ const ServicesPage: React.FC = () => {
               <div className="mt-8">
                 <h3 className="text-lg font-medium text-white mb-3">Technologies We Use:</h3>
                 <div className="flex flex-wrap gap-2">
+                  <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Anguler</span>
+                  <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Anguler</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">React</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Next.js</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Node.js</span>
+                  <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Python</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Express</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">MongoDB</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">PostgreSQL</span>
+                  <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">MySQL</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">GraphQL</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">TypeScript</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Tailwind CSS</span>
@@ -124,10 +128,10 @@ const ServicesPage: React.FC = () => {
         <div className="container-custom">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="order-2 lg:order-1 relative">
-              <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500 to-blue-500 rounded-lg blur opacity-30"></div>
+              <div className="absolute -inset-`1 bg-gradient-to-r from-indigo-500 to-blue-500 rounded-lg blur opacity-30"></div>
               <div className="relative bg-gray-900 p-1 rounded-lg overflow-hidden border border-gray-800">
                 <img 
-                  src="https://images.pexels.com/photos/3624068/pexels-photo-3624068.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                  src="../../../public/app-devlopment.jpg" 
                   alt="Mobile App Development" 
                   className="rounded-lg w-full h-auto"
                 />

@@ -15,7 +15,7 @@ const Header: React.FC<HeaderProps> = ({ scrolled }) => {
     { name: 'About', href: '/about' },
     { name: 'Services', href: '/services' },
     { name: 'Portfolio', href: '/portfolio' },
-    { name: 'Contact_tttt', href: '/contact' },
+    { name: 'Contact', href: '/contact' },
     // { name: 'Contact', href: '/contact' },
   ];
 
@@ -78,7 +78,7 @@ const Header: React.FC<HeaderProps> = ({ scrolled }) => {
               </Link>
             ))}
             <Link
-              to="/contact"
+              to="#"
               className="ml-4 px-6 py-2 bg-gradient-to-r from-indigo-600 to-blue-600 hover:from-indigo-500 hover:to-blue-500 text-white rounded-lg text-sm font-medium transition-all duration-200 shadow-lg shadow-indigo-500/20 hover:shadow-indigo-500/30 focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-900"
             >
               Get a Quote
@@ -136,7 +136,7 @@ const Header: React.FC<HeaderProps> = ({ scrolled }) => {
                   </Link>
                 ))}
                 <Link
-                  to="/contact"
+                  to="#"
                   className="mt-4 p-3 bg-gradient-to-r from-indigo-600 to-blue-600 hover:from-indigo-500 hover:to-blue-500 text-white rounded-lg text-base font-medium transition-all duration-200 text-center"
                   onClick={() => setIsMenuOpen(false)}
                 >
