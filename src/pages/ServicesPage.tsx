@@ -87,10 +87,10 @@ const ServicesPage: React.FC = () => {
                 <h3 className="text-lg font-medium text-white mb-3">Technologies We Use:</h3>
                 <div className="flex flex-wrap gap-2">
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Anguler</span>
-                  <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Anguler</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">React</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Next.js</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Node.js</span>
+                  <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Nest.js</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Python</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">Express</span>
                   <span className="bg-gray-800 text-indigo-400 px-3 py-1 rounded-full text-sm">MongoDB</span>

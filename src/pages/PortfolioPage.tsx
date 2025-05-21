@@ -20,93 +20,93 @@ const PortfolioPage: React.FC = () => {
   const projects: Project[] = [
     {
       id: 1,
-      title: "HealthTrack Mobile App",
-      category: "Mobile Development",
-      imageUrl: "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      description: "A comprehensive health tracking mobile application that helps users monitor their health metrics, schedule appointments, and receive personalized insights.",
-      technologies: ["React Native", "Firebase", "Node.js", "Express"],
+      title: "3T Taxi - Website",
+      category: "Web Development",
+      imageUrl: "/3T-2/3T_Taxi_website.png",
+      description: "The project was 3T Taxi App Landing Page creation. I did it within a very short time and the Client was very helpful. I used React js with Javascript. That was an excellent experience for me.",
+      technologies: ["React", "Node.js", "MySQL", "AWS"],
       link: "#",
-      categorySlug: "mobile"
+      categorySlug: "web"
     },
     {
       id: 2,
-      title: "E-Commerce Platform",
+      title: "Digital Agency",
       category: "Web Development",
-      imageUrl: "https://images.pexels.com/photos/6636438/pexels-photo-6636438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      description: "A full-featured e-commerce platform with secure payment processing, inventory management, and an intuitive admin dashboard.",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe API"],
+      imageUrl: "/Digital-3/Digital_Agency.png",
+      description: "The project was Digital Agency website creation. I did it within a very short time and the Client was very helpful. I used WordPress with Elementor Platform. That was an excellent experience for me",
+      technologies: ["React", "Node.js", "MySQL", "AWS"],
       link: "#",
       categorySlug: "web"
     },
     {
       id: 3,
-      title: "Financial Dashboard",
-      category: "UI/UX Design",
-      imageUrl: "https://images.pexels.com/photos/7681926/pexels-photo-7681926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      description: "An intuitive financial management dashboard with real-time data visualization, customizable reports, and predictive analytics.",
-      technologies: ["Figma", "React", "Chart.js", "D3.js"],
+      title: "Bertóoz Ecommerce",
+      category: "Web Development",
+      imageUrl: "/Ecommerce.png",
+      description: "E-commerce is constantly evolving, as is the design of e-commerce websites and apps. In this design exploration, we're exploring new ways to make e-commerce more user-friendly, engaging, and visually appealing",
+      technologies: ["React", "Node.js", "MySQL", "AWS"],
       link: "#",
-      categorySlug: "design"
+      categorySlug: "web"
     },
     {
       id: 4,
-      title: "Real Estate Listing App",
+      title: "Event Management",
       category: "Mobile Development",
-      imageUrl: "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      description: "A mobile application for real estate listings with map integration, virtual tours, and messaging between buyers and agents.",
-      technologies: ["React Native", "Google Maps API", "Firebase", "Node.js"],
+      imageUrl: "/Event.png",
+      description: "Continue to work one by one, here is the new minimal Event Management-Mobile App Exploration.The goal of this project is to build a platform with an enhanced Event experience.",
+      technologies: ["React-native", "PHP", "MySQL", "AWS"],
       link: "#",
       categorySlug: "mobile"
     },
     {
       id: 5,
-      title: "Corporate Intranet Portal",
-      category: "Web Development",
-      imageUrl: "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      description: "A secure intranet portal for enterprise clients, featuring document management, employee directories, and team collaboration tools.",
-      technologies: ["React", "TypeScript", "GraphQL", "PostgreSQL"],
+      title: "E-Commerce Mobile App",
+      category: "Mobile Development",
+      imageUrl: "/2.png",
+      description: "An E-Commerce app with online shopping, tracking, notifications, and payment gateway integration (Android & iOS) ",
+      technologies: ["Flutter", "Node.js", "MySQL", "AWS"],
       link: "#",
-      categorySlug: "web"
+      categorySlug: "mobile"
     },
     {
       id: 6,
-      title: "Fitness Tracker Redesign",
-      category: "UI/UX Design",
-      imageUrl: "https://images.pexels.com/photos/4498362/pexels-photo-4498362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      description: "A complete redesign of a fitness tracking application, focusing on improving user engagement and simplifying the tracking process.",
-      technologies: ["Figma", "Adobe XD", "Prototyping", "User Testing"],
+      title: "Gym Workout & Fitness Tracker",
+      category: "Mobile Development",
+      imageUrl: "/fitness-2.png",
+      description: "Introducing our Gym Fitness App, the ideal tool for crafting gym apps and fitness trackers. It's user-friendly and professional, designed to enhance your fitness app's functionality and appeal",
+      technologies: ["Flutter", "Node.js", "MySQL", "AWS", "Google APIs"],
       link: "#",
-      categorySlug: "design"
+      categorySlug: "mobile"
     },
     {
       id: 7,
-      title: "Restaurant Ordering System",
-      category: "Web Development",
-      imageUrl: "https://images.pexels.com/photos/4344544/pexels-photo-4344544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      description: "An online ordering system for restaurants, with table reservations, menu management, and integration with delivery services.",
-      technologies: ["Next.js", "Node.js", "MongoDB", "Payment Gateway"],
+      title: "News Mobile App",
+      category: "Mobile Development",
+      imageUrl: "/news.png",
+      description: "Modern iOS User Interface design template for a Blog / News app. This App is ideal for a blog app, media online, news app, and any media app. Make your wallet app design look stunning and eye-catching using this App. This App includes 12 unique and modern User Interface screens.",
+      technologies: ["React Native", "Node.js", "MySQL", "AWS", "Google APIs", "Geolocation"],
       link: "#",
-      categorySlug: "web"
+      categorySlug: "mobile"
     },
     {
       id: 8,
-      title: "Travel Companion App",
+      title: "Easy Ride- Taxi Booking App",
       category: "Mobile Development",
-      imageUrl: "https://images.pexels.com/photos/2007401/pexels-photo-2007401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      description: "A travel companion mobile app that helps users plan trips, discover local attractions, and keep track of their itineraries.",
-      technologies: ["Flutter", "Firebase", "Google Places API", "Maps Integration"],
+      imageUrl: "/Ride.png",
+      description: "Easy Ride is a Free & High-Quality Mobile App. with All Full Features of Taxi Booking App. Easy Ride comes with unique style.",
+      technologies: ["React Native", "Node.js", "MySQL", "AWS", "ChatGPT API"],
       link: "#",
       categorySlug: "mobile"
     },
     {
       id: 9,
-      title: "HR Management System",
-      category: "Web Development",
-      imageUrl: "https://images.pexels.com/photos/3182827/pexels-photo-3182827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      description: "A comprehensive HR management system for tracking employee data, leave management, performance reviews, and payroll processing.",
-      technologies: ["React", "Node.js", "MySQL", "AWS"],
+      title: "Dating App - Fun of & Dating",
+      category: "Mobile Development",
+      imageUrl: "/dating_App.png",
+      description: "Fun of & Dating is a free dating app and social network for singles; the perfect place to meet new people, in an instant.Whether you want to make genuine matches, find meaningful connections or a new relationship, chat with strangers, make friends, casually date, or even expand your professional and social network, we’ve got you covered",
+      technologies: ["React Native", "Node.js", "MySQL", "AWS", "ChatGPT API"],
       link: "#",
-      categorySlug: "web"
+      categorySlug: "mobile"
     }
   ];
 
@@ -114,7 +114,7 @@ const PortfolioPage: React.FC = () => {
     { name: "All", slug: "all" },
     { name: "Web Development", slug: "web" },
     { name: "Mobile Development", slug: "mobile" },
-    { name: "UI/UX Design", slug: "design" }
+    // { name: "UI/UX Design", slug: "design" }
   ];
 
   const [activeCategory, setActiveCategory] = useState("all");

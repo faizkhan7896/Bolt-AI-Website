@@ -1,0 +1,159 @@
+Dating App - Fun of & Dating
+
+Project description:
+
+Fun of & Dating is a free dating app and social network for singles; the perfect place to meet new people, in an instant.
+
+Whether you want to make genuine matches, find meaningful connections or a new relationship, chat with strangers, make friends, casually date, or even expand your professional and social network, we’ve got you covered.
+
+Skills and deliverables:
+
+React Native
+JavaScript
+ChatGPT API Integration
+Analytics
+Dating & Social Life
+
+__________________________________________________________________________________________________________
+
+3T Taxi - Website
+
+Project description:
+
+The project was 3T Taxi App Landing Page creation. I did it within a very short time and the Client was very helpful. I used React js with Javascript. That was an excellent experience for me.
+
+Skills and deliverables:
+
+JavaScript
+Landing Page
+Website
+Product Page
+TechiesTown InfoTech Taxi App
+__________________________________________________________________________________________________________
+
+Digital Agency landing page
+
+Project description:
+
+The project was Digital Agency website creation. I did it within a very short time and the Client was very helpful. I used WordPress with Elementor Platform. That was an excellent experience for me.
+
+Skills and deliverables:
+
+Elementor
+WordPress Website
+Landing Page
+Web Design
+WordPress Theme
+
+__________________________________________________________________________________________________________
+
+Bertóoz - E-commerce Website
+
+Project description.
+
+E-commerce is constantly evolving, as is the design of e-commerce websites and apps. In this design exploration, we're exploring new ways to make e-commerce more user-friendly, engaging, and visually appealing.
+
+Thanks for checking it out!
+
+Skills and deliverables
+
+WordPress
+UI/UX Prototyping
+API Development
+Figma
+
+__________________________________________________________________________________________________________
+
+Event Management - Mobile App
+
+Project description.
+
+Continue to work one by one, here is the new minimal Event Management - Mobile App Exploration.
+
+The goal of this project is to build a platform with an enhanced Event experience.🔥
+
+
+Skills and deliverables
+
+React Native
+JavaScript
+Prototype
+API Integration
+PHP
+
+__________________________________________________________________________________________________________
+
+E-Commerce Mobile App Development
+
+Project description.
+
+An E-Commerce app with online shopping, tracking, notifications, and payment gateway integration (Android & iOS) • Technologies: Flutter/Dart, Firebase
+Skills and deliverables
+
+Flutter
+API Integration
+ChatGPT API Integration
+Node.js
+Payment Gateway
+
+__________________________________________________________________________________________________________
+
+Gym Workout App Fitness Tracker Mobile App
+
+Project description.
+
+Project description. Introducing our Gym Fitness App, the ideal tool for crafting gym apps and fitness trackers. It's user-friendly and professional, designed to enhance your fitness app's functionality and appeal.
+
+LIve Preview: https://bit.ly/3UE86jm
+Skills and deliverables
+
+React Native
+Node.js
+API Integration
+Fitness Tracker
+Google APIs
+
+__________________________________________________________________________________________________________
+
+News Mobile App (IOS)
+
+Project description.
+
+Modern iOS User Interface design template for a Blog / News app. This App is ideal for a blog app, media online, news app, and any media app. Make your wallet app design look stunning and eye-catching using this App. This App includes 12 unique and modern User Interface screens.
+
+Live Preview: https://bit.ly/3UITjE5
+
+Skills and deliverables
+
+React Native
+API
+News Media
+Google APIs
+Geolocation
+
+__________________________________________________________________________________________________________
+
+Easy Ride- Taxi Booking App
+
+Project description.
+
+Easy Ride is a Free & High-Quality Mobile App. with All Full Features of Taxi Booking App. Easy Ride comes with unique style and niche.
+
+Main App Features:
+
+✅ Taxi Booking Management
+✅ Fare Taxi Summary, Driver & Vehicle Details, & Review/Rating Features
+✅ Secure Multiple Payment Methods & Promo/Special Offers Features
+✅ In-App Messaging/Chatting Features (Chat & Calls Management)
+✅ E-Wallet (Top Up, Transaction History, & E-Receipt Features)
+✅ Onboarding, Sign up, Sign in, Forgot & Reset Password, Account Setup, Notification, Search, Help Center (FAQ & Contact Support), Profile, Settings, &
+
+Skills and deliverables
+
+Node.js
+ChatGPT API Integration
+Figma
+Google APIs
+React Native
+
+__________________________________________________________________________________________________________

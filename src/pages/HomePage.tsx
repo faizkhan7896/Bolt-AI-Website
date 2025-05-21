@@ -233,24 +233,24 @@ const HomePage: React.FC = () => {
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">
             <ProjectCard
-              imageUrl="https://images.pexels.com/photos/18540208/pexels-photo-18540208/free-photo-of-smartphone-apps.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-              title="HealthTrack Mobile App"
+              imageUrl="Event.png"
+              title="Event Management Mobile App"
               category="Mobile Development"
-              description="A comprehensive health tracking application with personalized insights and analytics."
+              description="Continue to work one by one, here is the new minimal Event Management-Mobile App Exploration."
             />
             
             <ProjectCard
-              imageUrl="https://images.pexels.com/photos/6429256/pexels-photo-6429256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+              imageUrl="/Ecommerce.png"
               title="E-Commerce Platform"
               category="Web Development"
               description="A full-featured online store with secure payment processing and inventory management."
             />
             
             <ProjectCard
-              imageUrl="https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-              title="Financial Dashboard"
+              imageUrl="/dating_App.png"
+              title="Dating App"
               category="UI/UX Design"
-              description="An intuitive financial management dashboard with real-time data visualization."
+              description="Fun of & Dating is a free dating app and social network for singles; the perfect place to meet new people, in an instant"
             />
           </div>
           
