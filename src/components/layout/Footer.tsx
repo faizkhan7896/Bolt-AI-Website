@@ -30,16 +30,16 @@ const Footer: React.FC = () => {
               <a href="#" className="text-gray-400 hover:text-indigo-400 transition-colors">
                 <Facebook size={18} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-indigo-400 transition-colors">
+              <a href="https://x.com/" className="text-gray-400 hover:text-indigo-400 transition-colors">
                 <Twitter size={18} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-indigo-400 transition-colors">
+              <a href="https://www.linkedin.com/company/melexis-innovation/" className="text-gray-400 hover:text-indigo-400 transition-colors">
                 <Linkedin size={18} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-indigo-400 transition-colors">
+              <a href="https://www.instagram.com/" className="text-gray-400 hover:text-indigo-400 transition-colors">
                 <Instagram size={18} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-indigo-400 transition-colors">
+              <a href="https://github.com/" className="text-gray-400 hover:text-indigo-400 transition-colors">
                 <Github size={18} />
               </a>
             </div>

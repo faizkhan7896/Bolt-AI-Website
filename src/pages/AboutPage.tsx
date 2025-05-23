@@ -157,7 +157,7 @@ const AboutPage: React.FC = () => {
       </section>
 
       {/* Our Team */}
-      <section className="section bg-gray-950">
+      {/* <section className="section bg-gray-950">
         <div className="container-custom">
           <SectionTitle
             subtitle="Our Team"
@@ -168,7 +168,7 @@ const AboutPage: React.FC = () => {
           />
           
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mt-12">
-            {/* Team Member 1 */}
+            
             <div className="group">
               <div className="relative overflow-hidden rounded-lg mb-4">
                 <img
@@ -205,7 +205,7 @@ const AboutPage: React.FC = () => {
               <p className="text-indigo-400">Chief Technology Officer</p>
             </div>
             
-            {/* Team Member 2 */}
+            
             <div className="group">
               <div className="relative overflow-hidden rounded-lg mb-4">
                 <img
@@ -241,8 +241,7 @@ const AboutPage: React.FC = () => {
               <h3 className="text-xl font-semibold text-white">Sarah Chen</h3>
               <p className="text-indigo-400">Lead UI/UX Designer</p>
             </div>
-            
-            {/* Team Member 3 */}
+          
             <div className="group">
               <div className="relative overflow-hidden rounded-lg mb-4">
                 <img
@@ -279,7 +278,7 @@ const AboutPage: React.FC = () => {
               <p className="text-indigo-400">Lead Web Developer</p>
             </div>
             
-            {/* Team Member 4 */}
+           
             <div className="group">
               <div className="relative overflow-hidden rounded-lg mb-4">
                 <img
@@ -317,7 +316,7 @@ const AboutPage: React.FC = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* CTA Section */}
       <section className="section bg-gray-900">
